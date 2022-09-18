@@ -1,0 +1,11 @@
+Steps
+
+1. First extract JJU BMS Then  go to   C:\xampp\htdocs and  paste it.
+
+2. Then start php my admin and create database named jjubms and import database file
+
+3 Then for Every User there is a username and password check the the image below. 
+
+4. Thats is all done by love here in Ethiopia.
+
+  
